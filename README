@@ -1,0 +1,6 @@
+ITS Tool allows you to translate your XML documents with PO
+files, using rules from the W3C Internationalization Tag Set
+(ITS) to determine what to translate and how to separate it
+into PO file messages.
+
+Fork it at https://github.com/sebasalazar/itstool.git
