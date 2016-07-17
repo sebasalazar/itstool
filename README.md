@@ -1,0 +1,2 @@
+# itstool
+itstool for Slackware
